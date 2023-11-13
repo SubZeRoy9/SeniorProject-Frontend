@@ -1,0 +1,53 @@
+{
+    "planets": [
+      {
+        "name": "Mercury",
+        "position": 1,
+        "description": "Mercury is the closest planet to the Sun and is known for its extreme temperature variations.",
+        "image_url": "https://example.com/mercury.jpg"
+      },
+      {
+        "name": "Venus",
+        "position": 2,
+        "description": "Venus is often called Earth's 'sister planet' due to its similar size and composition, but it has a thick, toxic atmosphere.",
+        "image_url": "https://example.com/venus.jpg"
+      },
+      {
+        "name": "Earth",
+        "position": 3,
+        "description": "Earth is our home planet and the only known celestial body to support life.",
+        "image_url": "https://example.com/earth.jpg"
+      },
+      {
+        "name": "Mars",
+        "position": 4,
+        "description": "Mars is often referred to as the 'Red Planet' and has been a target for human exploration.",
+        "image_url": "https://example.com/mars.jpg"
+      },
+      {
+        "name": "Jupiter",
+        "position": 5,
+        "description": "Jupiter is the largest planet in our solar system and is known for its massive size and powerful storms.",
+        "image_url": "https://example.com/jupiter.jpg"
+      },
+      {
+        "name": "Saturn",
+        "position": 6,
+        "description": "Saturn is famous for its stunning ring system, made up of countless particles of ice and rock.",
+        "image_url": "https://example.com/saturn.jpg"
+      },
+      {
+        "name": "Uranus",
+        "position": 7,
+        "description": "Uranus is a unique planet in our solar system as it rotates on its side, unlike other planets.",
+        "image_url": "https://example.com/uranus.jpg"
+      },
+      {
+        "name": "Neptune",
+        "position": 8,
+        "description": "Neptune is the farthest known planet from the Sun and is a gas giant with a deep blue color.",
+        "image_url": "https://example.com/neptune.jpg"
+      }
+    ]
+  }
+  

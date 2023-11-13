@@ -1,0 +1,27 @@
+.footer {
+    background-color: #333; /* Background color */
+    color: #fff; /* Text color */
+    position:absolute;
+    left:0;
+    bottom:0;
+    right:0;
+
+  }
+  
+  /* Center the content in the container */
+  .container {
+    text-align: center;
+  }
+  
+  /* Style links in the footer */
+  .footer a {
+    color: #fff; /* Link color */
+    text-decoration: none; /* Remove underlines */
+  }
+  
+  /* Style the bottom bar (copyright notice) */
+  .bottom-bar {
+    background-color: #222; /* Background color */
+    text-align: center;
+    padding: 10px 0;
+  }
